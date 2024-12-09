@@ -1,4 +1,4 @@
-package Closers;
+package Level_Easy_Hogwards;
 
 public class SpellCaster {
     public void cast(String spell, SpellAction action) {

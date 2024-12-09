@@ -1,4 +1,4 @@
-package Closers;
+package Level_Easy_Hogwards;
 
 public class Main {
     public static void main(String[] args) {
