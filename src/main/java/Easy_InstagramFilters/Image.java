@@ -1,4 +1,4 @@
-package Level_Easy_InstagramFilters;
+package Easy_InstagramFilters;
 
 public class Image {
     private String name;

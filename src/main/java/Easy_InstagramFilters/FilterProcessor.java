@@ -1,4 +1,4 @@
-package Level_Easy_InstagramFilters;
+package Easy_InstagramFilters;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package Level_Easy_Hogwards;
+package Easy_Hogwards;
 
 public class SpellCaster {
     public void cast(String spell, SpellAction action) {

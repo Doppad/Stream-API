@@ -1,4 +1,4 @@
-package Level_Easy_Hogwards;
+package Easy_Hogwards;
 
 @FunctionalInterface
 public interface SpellAction {

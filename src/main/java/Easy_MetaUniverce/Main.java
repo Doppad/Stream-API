@@ -1,4 +1,4 @@
-package Level_Easy_MetaUniverce;
+package Easy_MetaUniverce;
 
 public class Main {
     public static void main(String[] args) {

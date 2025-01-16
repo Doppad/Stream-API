@@ -1,4 +1,4 @@
-package Level_Easy_MetaUniverce;
+package Easy_MetaUniverce;
 
 import java.util.HashMap;
 import java.util.Map;
